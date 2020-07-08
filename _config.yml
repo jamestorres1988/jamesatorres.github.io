@@ -28,11 +28,6 @@ projects:
     projects:
     # - repo-name
 
-
-email: jamestorres.afp@gmail.com # Add your Email address
-linkedin: # Add your Linkedin handle
-github: jamestorres1988 # Add your Github handle
-
 # social_media:
   # behance: your_username
   # dribbble: your_username
@@ -40,7 +35,7 @@ github: jamestorres1988 # Add your Github handle
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: james-torres-data-scientist/
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id

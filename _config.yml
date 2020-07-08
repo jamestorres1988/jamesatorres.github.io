@@ -21,11 +21,13 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 3
+  limit: 9
   exclude:
     archived: false
     forks: true
     projects:
+    - jamesatorres.github.io
+    - jamestorres.github.io
     # - repo-name
 
 social_media:

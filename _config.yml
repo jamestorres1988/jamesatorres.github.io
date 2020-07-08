@@ -1,5 +1,5 @@
 layout: stacked
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -49,12 +49,13 @@ social_media:
 topics:
   - name: Python
     web_url: https://github.com/topics/python
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
     
   - name: NLP
     web_url: https://github.com/topics/nlp
 
-  - name: SQL
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: sci-kit 
+    web_url: https://github.com/topics/postgresql
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png
 
 theme: jekyll-theme-midnight
